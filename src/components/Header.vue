@@ -2,7 +2,7 @@
   <div>
     <header>
       <div>
-        <h1>Gotraveling API Docs</h1>
+        <h1>API Docs Templates</h1>
       </div>
     </header>
   </div>
