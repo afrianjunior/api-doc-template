@@ -2,11 +2,9 @@
   <div>
     <header-cover></header-cover>
     <div class="mi container">
-      <h1>Free to use for FDV Developers</h1>
+      <h1>Free to use</h1>
       <div class="infobox">
-        <h3>Authorization = Basic YWRtaW5mZHY6ZGlnaXRhbG1pbmQxMjM0NQ==</h3>
-        <h3>X-API-KEY = 12345</h3>
-        <h3>BASE URL = http://api.gotraveling.co.id</h3>
+        <p>just another info</p>
       </div>
       <list-api></list-api>
     </div>
@@ -32,7 +30,7 @@
     margin: 0;
     padding: 0;
   }
-  
+
   h1, h2, h3, h4, h5 {
     font-family: 'Raleway', sans-serif;
   }
