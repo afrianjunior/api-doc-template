@@ -1,6 +1,8 @@
-# got-docs
+# Api Doc Template
 
-> A Vue.js project
+``` bash
+  free to use
+```
 
 ## Build Setup
 
